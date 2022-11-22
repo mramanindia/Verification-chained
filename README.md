@@ -4,10 +4,15 @@ OCR + NLP based document verification system powered by Blockchain
 <h1><strong><center>Verification Chained</strong></h1>
 <strong>AI chained with the Blocks</strong>
 
+<img src="https://github.com/mramanindia/Verification-chained/blob/master/Screenshot%20(76).png" alt="Main Image">
+
+
+
 -----------
 <br>
 
 ## Problem Statement:
+<img src="https://github.com/mramanindia/Verification-chained/blob/master/Screenshot%20(75).png">
 With Digtilazion, there has seen a massive impact on society that leads to Transformation and Innovation.
 
 The enormous growth in Digital shift can be seen in the finance sector: the mass increment in online transition.
@@ -35,7 +40,8 @@ Well,
 The prayer was heard by Blockchain, and it came in the rescue mission.
 
 
-##<strong>About Verification chained</strong>
+## <strong>About Verification chained</strong>
+<img src="https://github.com/mramanindia/Verification-chained/blob/master/Screenshot%20(77).png">
 
 Verification chained is a Platform that deals with the unshakable security of Blockchain and the Evolucanary magic of Artificial intelligence.
 
@@ -46,7 +52,7 @@ With the Magic of Artificial intelligence and the Complexity of Blockchain, It i
 A product that has the power of Decentralization and the Advanced feature of AI which makes it futuristic.
 
 
-##<strong>Verification Chained Features</strong>
+## <strong>Verification Chained Features</strong>
 
 
 *   AI enabled Document Scanning and Data Collection
@@ -54,12 +60,13 @@ A product that has the power of Decentralization and the Advanced feature of AI 
 *   Record tracking and accurate Predictions
 
 
-###Exaplanation
+### Exaplanation
+<img src ="https://github.com/mramanindia/Verification-chained/blob/master/Screenshot%20(78).png">
 It Scan the Document using pretrained Deeplearning model and with NLP, It extract the important information that get saved in csv files which further saved to the Blockchain.
 
 Now, when it comes for verification, It looks through the document, scan the information and match to the stored data on the blockchain for verification.
  
-###<strong>Technology Used</strong>: Python, OCR (Optical Character Recognition), Blockchain, Deep Learning, NLP.
+### <strong>Technology Used</strong>: Python, OCR (Optical Character Recognition), Blockchain, Deep Learning, NLP.
 
 
 
